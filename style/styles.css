@@ -249,7 +249,7 @@ margin: 0;
     height: 45.22px;
     margin-top: 30px;
     position: relative;
-    animation: icon 4s ease-in-out 2s 1 alternate; 
+    animation: icon 4s ease-in-out 2s 7 alternate; 
 }
 .report .number{
     font-size: 45px;
@@ -257,7 +257,7 @@ margin: 0;
     margin-top: 5px;
     margin-bottom: 5px;
     position: relative;
-    animation: icon 4s ease-in-out 2s 1 alternate;
+    animation: icon 4s ease-in-out 2s 3 alternate;
     transition: width 2s;
 }
 .number:hover{
@@ -268,7 +268,7 @@ margin: 0;
     font-size: 20px;
     color: #727272;
     position: relative;
-    animation: icon 4s ease-in-out 2s 1 alternate; 
+    animation: icon 4s ease-in-out 2s 5 alternate; 
     
 }
 
